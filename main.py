@@ -13,7 +13,7 @@ root.geometry('{}x{}+{}+{}'.format(width, height, x, y))
 
 root.config(background="#fefdff")
 
-welcome_label = Label(text="CiTi BANK", bg="#ffffff", font=("Trebuchet Ms", 25, "bold"), fg="#3f3960")
+welcome_label = Label(text="CiTi BANK", bg="#ffffff", font=("Trebuchet Ms", 26, "bold"), fg="#3f3960")
 welcome_label.place(x=180, y=25)
 
 # Load the image for bg_label
